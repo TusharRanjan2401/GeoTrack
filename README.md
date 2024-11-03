@@ -43,7 +43,7 @@ docker run -p 9092:9092 -e KAFKA_ZOOKEEPER_CONNECT=<IP_Address>:9092 -e KAFKA_AD
 1. Clone the repo
 
 ````bash
-git clone https://github.com/TusharRanjan2401/geotrack.git
+git clone https://github.com/TusharRanjan2401/GeoTrack.git
 
 2. Create a ```.env``` file in the root
 
